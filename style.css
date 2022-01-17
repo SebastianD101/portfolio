@@ -79,6 +79,10 @@ img {
     width: 50%;
 }
 
+::-webkit-scrollbar {
+    width: 0px;
+  }
+
 form {
     margin-left: 10%;
     margin-right: 10%;
