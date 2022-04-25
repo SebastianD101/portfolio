@@ -43,6 +43,9 @@
         width: 80%;
         text-align: center;
     }
+    h5 {
+        padding-bottom: 100px;
+    }
 }
 
 a:visited { 
@@ -98,7 +101,7 @@ h2 {
   
   .threeD:hover {
     transition: 0.3s;
-    transform: scale(1.1)translate(-50%, -50%);
+    transform: scale(1.1) translate(-50%, -50%);
     text-shadow: 1px -1px 0 grey, 1px -2px 0 grey, 1px -3px 0 grey;
   }
 
@@ -111,7 +114,7 @@ h2 {
   
   .fourD:hover {
     transition: 0.3s;
-    transform: scale(1.1)translate(-50%, -50%);
+    transform: scale(1.1) translate(-50%, -50%);
     text-shadow: 1px -1px 0 grey;
   }
 
